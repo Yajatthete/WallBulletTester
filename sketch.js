@@ -36,10 +36,6 @@ wall.shapeColor = color(0,255,0);
     wall.shapeColor = color(255,0,0);
   }
 
-  console.log (speed);
-  console.log (weight);
-  console.log (thickness);
-
 }
 
   drawSprites();
